@@ -12,14 +12,14 @@ In this project, we are going to focus on the following learning objectives:
 6.	Assess the performance of trained Convolutional Neural Network model and ensure its generalization using various KPIs.
 
 # Workflow
-Task 1: Overview
-Task 2: Import Libraries and data-sets
-Task 3: Perform image visualization
-Task 4: Convert images to gray-scale and perform normalization
-Task 5: Understand the theory and intuition behind Convolutional Neural Networks
-Task 6: Build deep learning model
-Task 7: Compile and train deep learning model
-Task 8: Assess trained model performance
+1. Overview
+2. Import Libraries and data-sets
+3. Perform image visualization
+4. Convert images to gray-scale and perform normalization
+5. Understand the theory and intuition behind Convolutional Neural Networks
+6. Build deep learning model
+7. Compile and train deep learning model
+8:.Assess trained model performance
 
 
 
